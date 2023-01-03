@@ -45,15 +45,17 @@ The interactive version below is shared on Google Colab. Requires a Google Drive
 
 Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap.<br>
 Improved presentation, and confusing line plots were replaced with histograms.<br>
-Interactive Dashboard does not work with MyBinder. Notebook must be downloaded and run with proper libraries.  
+Interactive Dashboard does not work with MyBinder. It runs on Google Colab, but it requires a Google account.  
+Notebook can be downloaded and run with proper libraries.  
 
 <br>
 <p align="center"> <img src="TreeMap_Dashboard_001.png" width="750"  /> </p>  
 
-
 #### [Dashboard - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/US-Domestic-Airline-Flights-Performance_Dashboard_v3.ipynb)
 
+Google colab: 
 
+#### [Dashboard - GoogleColab](https://colab.research.google.com/drive/1KC7oAGeaOK1uuqT7V47LEaKZS1rM2jSo?usp=sharing)
 
 
 
