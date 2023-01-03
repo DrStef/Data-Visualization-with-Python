@@ -8,7 +8,7 @@ It was completed in May 2022.
 
 ## **Canadian Immigration Dataset:  waffle chart, word cloud.** 
 
-We improved the initial Notebook with better graphs. <br> We used a map of Canada and contour as a mask for the word cloud of immigration main countries of origin.  
+We improved the initial Notebook with better graphs. <br> We used a map of Canada and contour as a mask for the word cloud: immigration main countries of origin.  
 
 |   Waffle Chart        |      Word Cloud     |
 | ---         |   ---         |
@@ -28,7 +28,7 @@ Maps with choropleth: Visualizing countries of origin, Canadian Immigration data
 
 
 
-|   Waffle Chart        |      Word Cloud     |
+|   Folium with markers        |     Choropleth     |
 | ---         |   ---         |
 |  <p align="center"> <img src="Crime_SF_folium_v02.png" width="350"  /> </p> | <p align="center"> <img src= "Choropleth_can_immigration.png" width="350" /></p>|
 
