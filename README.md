@@ -2,7 +2,7 @@
 
 
 This project was part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science <br>
-It was completed in May 2022. 
+
 <br> 
 <br>
 
