@@ -51,7 +51,7 @@ Interactive Dashboard does not work with MyBinder. Notebook must be downloaded a
 <p align="center"> <img src="TreeMap_Dashboard_001.png" width="750"  /> </p>  
 
 
-#### [Dashboard - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/US%20Domestic%20Airline%20Flights%20Performance_Dashboard_v3.ipynb)
+#### [Dashboard - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/US-Domestic-Airline-Flights-Performance_Dashboard_v3.ipynb)
 
 
 
