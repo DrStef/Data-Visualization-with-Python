@@ -54,7 +54,7 @@ Notebook can be downloaded and run with proper libraries.
 
 #### [Dashboard - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/US-Domestic-Airline-Flights-Performance_Dashboard_v3.ipynb)
 
-Google colab: 
+Google colab. Execute the Notebook, and click on the "localhost" link below "Dash app running on". 
 #### [Dashboard - GoogleColab](https://colab.research.google.com/drive/1KC7oAGeaOK1uuqT7V47LEaKZS1rM2jSo?usp=sharing)
 
 
