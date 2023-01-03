@@ -12,7 +12,10 @@ We improved the initial Notebook with better graphs. <br> We used a map of Canad
 
 |   Waffle Chart        |      Word Cloud     |
 | ---         |   ---         |
-|  <p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="400" /></p>|
+|  <p align="center"> <img src="Canada_immigration_waffle.png" width="300"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="300" /></p>|
+
+#### [Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)
+
 
 
 ### **Generating Maps with Python** 
