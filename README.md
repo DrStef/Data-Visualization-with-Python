@@ -4,9 +4,9 @@
 This project is part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
 
 
-### Canadian Immigration Dataset:  wafle, word cloud. 
+### Canadian Immigration Dataset:  waffle chart, word cloud. 
 
-We improved the initial by adding better graphs using a Canada map as a mask for major immigration countries work cloud.  
+We improved the initial Notebook with better graphs and by using a Canada map as a mask for word cloud of major immigration countries of origin.  
 
 |   Waffle Chart        |      Word Cloud     |
 | ---         |   ---         |
