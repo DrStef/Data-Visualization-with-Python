@@ -45,7 +45,8 @@ The interactive version below is shared on Google Colab. Requires a Google Drive
 
 Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap.<br>
 Improved presentation, and confusing line plots were replaced with histograms.<br>
-Interactive Dashboard does not work with MyBinder. Notebook must be downloaded and run with proper libraries.     
+Interactive Dashboard does not work with MyBinder. Notebook must be downloaded and run with proper libraries.  
+
 <br>
 <p align="center"> <img src="TreeMap_Dashboard_001.png" width="750"  /> </p>  
 
