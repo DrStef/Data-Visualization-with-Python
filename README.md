@@ -17,8 +17,8 @@ We improved the initial Notebook with better graphs. <br> We used a map of Canad
 
 ### **Generating Maps with Python** 
 
-Maps with Folium with various options: Stamen Toner, Stamen Terrain,... <br>  
-Maps with markers: Visulaing features of San Francisco crime dataset.  <br>
+Maps with Folium. Various options: Stamen Toner, Stamen Terrain,... <br>
+Maps with markers: Visualizing features of San Francisco crime dataset.  <br>
 Maps with choropleth: Visualizing countries of origin, Canadian Immigration dataset. <br>   
 
 |   Waffle Chart        |      Word Cloud     |
