@@ -14,7 +14,7 @@ We improved the initial Notebook with better graphs and by using a Canada map as
 |  <p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="400" /></p>|
 
 
-#### <ul>[Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)</ul>
+#### [Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)
 
 <br>
 <br>
@@ -25,31 +25,17 @@ We improved the initial Notebook with better graphs and by using a Canada map as
 ### **US Domestic Airline Flights Performance.** 
 
 Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap. <br>    . 
-Improved presentation, and confusing line plots were replaced with histograms.  
+Improved presentation, and confusing line plots were replaced with histograms.  <br>
+Interactive Dashobard notebook does not work on Github. Notebook must be downloaded and run with proper libraries.    
+
+<p align="center"> <img src="TreeMap_Dashboard_001.png" width="600"  /> </p>  
 
 
-<p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p>  
+#### [Dashboard - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/US%20Domestic%20Airline%20Flights%20Performance_Dashboard_v3.ipynb)
 
 
 
 
-
-
-
-The presentation covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch succeess (succesful first stage landing) with classification algorithms. We draw a parallel between SpaceX Falcon9 and ArianeEspace Ariane5 (and coming Ariane6) that was dominating the market of commercial launches until SpaceX put an end to this domination thanks to the reusable boosters concept and induced cost reduction.     
-
-
-#### <ul>[Presentation - pdf](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/Stephane_Dedieu_ds-capstone-template-coursera_v9.pdf)</ul>
-
-Presentation to be downloaded (15.6MB). Will not display on Github. 
-#### <ul>[Presentation - pptx](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/Stephane_Dedieu_ds-capstone-template-coursera_v9.pptx)</ul>
-
-### **SpaceX Data Collection.**
-
-Request to the SpaceX API. <br>
-Clean the requested data. 
-
-#### <ul>[SpaceX Data Collection - Jupyter Notebook](https://github.com/DrStef/Applied_Data_Science_Capstone_SpaceX_IBM/blob/main/GH_jupyter-labs-spacex-data-collection-api_v5.ipynb)</ul>
 
 
 
