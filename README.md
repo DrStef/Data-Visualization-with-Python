@@ -1,4 +1,4 @@
-#  Data Vizualization with Python
+#  Data Visualization with Python
 
 
 
