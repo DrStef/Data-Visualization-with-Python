@@ -1,10 +1,10 @@
 #  Data Visualization with Python
 
 
-This project is part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
+This project was part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
 
 
-### Canadian Immigration Dataset:  waffle chart, word cloud. 
+### **Canadian Immigration Dataset:  waffle chart, word cloud.** 
 
 We improved the initial Notebook with better graphs and by using a Canada map as a mask for word cloud of immigration main countries of origin.  
 
@@ -19,7 +19,12 @@ We improved the initial Notebook with better graphs and by using a Canada map as
 
 
 
-### **Presentation of the project** 
+### **US Domestic Airline Flights Performance.** 
+
+Analysis/Visualization with Dashboard
+
+
+
 
 The presentation covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch succeess (succesful first stage landing) with classification algorithms. We draw a parallel between SpaceX Falcon9 and ArianeEspace Ariane5 (and coming Ariane6) that was dominating the market of commercial launches until SpaceX put an end to this domination thanks to the reusable boosters concept and induced cost reduction.     
 
