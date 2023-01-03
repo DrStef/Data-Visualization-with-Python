@@ -1,6 +1,6 @@
 #  Data Visualization with Python
 
-##### Data Visualization with Python 
+
 This project is part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
 
 
