@@ -35,11 +35,8 @@ Maps with choropleth: Visualizing countries of origin, Canadian Immigration data
 
 #### [Maps: Folium - Choropleth - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Generating-Maps-with-Python_v2.ipynb)
 
-The interactive version is shared on Google Colab. Requires a Google Drive account. 
-
+The interactive version below is shared on Google Colab. Requires a Google Drive account. 
 #### [Interactive Maps: Folium - Choropleth - Jupyter Notebook on GoogleColab](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Generating_Maps_with_Python_v4.ipynb)
-
-
 
 <br>
 <br>
