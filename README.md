@@ -27,8 +27,8 @@ We improved the initial Notebook with better graphs. <br> We used a map of Canad
 
 Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap.<br>
 Improved presentation, and confusing line plots were replaced with histograms.<br>
-Interactive Dashboard notebook does not work on Github. Notebook must be downloaded and run with proper libraries.    
-
+Interactive Dashboard does not work with MyBinder. Notebook must be downloaded and run with proper libraries.     
+<br>
 <p align="center"> <img src="TreeMap_Dashboard_001.png" width="750"  /> </p>  
 
 
