@@ -25,11 +25,11 @@ We improved the initial Notebook with better graphs. <br> We used a map of Canad
 
 ### **US Domestic Airline Flights Performance.** 
 
-Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap. <br>    . 
-Improved presentation, and confusing line plots were replaced with histograms.  <br>
+Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap.<br>
+Improved presentation, and confusing line plots were replaced with histograms.<br>
 Interactive Dashobard notebook does not work on Github. Notebook must be downloaded and run with proper libraries.    
 
-<p align="center"> <img src="TreeMap_Dashboard_001.png" width="600"  /> </p>  
+<p align="center"> <img src="TreeMap_Dashboard_001.png" width="750"  /> </p>  
 
 
 #### [Dashboard - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/US%20Domestic%20Airline%20Flights%20Performance_Dashboard_v3.ipynb)
