@@ -15,6 +15,21 @@ We improved the initial Notebook with better graphs. <br> We used a map of Canad
 |  <p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="400" /></p>|
 
 
+### **Generating Maps with Python** 
+
+Maps with Folium with various options: Stamen Toner, Stamen Terrain,... <br>  
+Maps with markers: Visulaing features of San Francisco crime dataset.  <br>
+Maps with choropleth: Visualizing countries of origin, Canadian Immigration dataset. <br>   
+
+|   Waffle Chart        |      Word Cloud     |
+| ---         |   ---         |
+|  <p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="400" /></p>|
+
+
+
+
+
+
 #### [Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)
 
 <br>
