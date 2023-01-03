@@ -12,7 +12,7 @@ We improved the initial Notebook with better graphs. <br> We used a map of Canad
 
 |   Waffle Chart        |      Word Cloud     |
 | ---         |   ---         |
-|  <p align="center"> <img src="Canada_immigration_waffle.png" width="300"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="300" /></p>|
+|  <p align="center"> <img src="Canada_immigration_waffle.png" width="350"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="350" /></p>|
 
 
 #### [Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)
@@ -30,7 +30,7 @@ Maps with choropleth: Visualizing countries of origin, Canadian Immigration data
 
 |   Waffle Chart        |      Word Cloud     |
 | ---         |   ---         |
-|  <p align="center"> <img src="Crime_SF_folium_v02.png" width="300"  /> </p> | <p align="center"> <img src= "Choropleth_can_immigration.png" width="300" /></p>|
+|  <p align="center"> <img src="Crime_SF_folium_v02.png" width="350"  /> </p> | <p align="center"> <img src= "Choropleth_can_immigration.png" width="350" /></p>|
 
 
 #### [Maps: Folium - Choropleth - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)
