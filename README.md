@@ -3,6 +3,7 @@
 
 This project was part of IBM Data Science certificate. https://www.coursera.org/professional-certificates/ibm-data-science
 
+<br> 
 
 ### **Canadian Immigration Dataset:  waffle chart, word cloud.** 
 
@@ -23,7 +24,8 @@ We improved the initial Notebook with better graphs and by using a Canada map as
 
 ### **US Domestic Airline Flights Performance.** 
 
-Analysis/Visualization with Dashboard. Improved presentation, and confusing line plots were replaced with histograms.  
+Analysis/Visualization with Dashboard including histograms, pie chart, map (choropleth), treemap. <br>    . 
+Improved presentation, and confusing line plots were replaced with histograms.  
 
 
 <p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p>  
