@@ -33,7 +33,7 @@ Maps with choropleth: Visualizing countries of origin, Canadian Immigration data
 |  <p align="center"> <img src="Crime_SF_folium_v02.png" width="350"  /> </p> | <p align="center"> <img src= "Choropleth_can_immigration.png" width="350" /></p>|
 
 
-#### [Maps: Folium - Choropleth - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Generating%20Maps%20with%20Python_v2.ipynb)
+#### [Maps: Folium - Choropleth - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Generating-Maps-with-Python_v2.ipynb)
 
 <br>
 <br>
