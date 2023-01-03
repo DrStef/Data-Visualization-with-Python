@@ -10,18 +10,26 @@ We improved the initial Notebook with better graphs and by using a Canada map as
 
 |   Waffle Chart        |      Word Cloud     |
 | ---         |   ---         |
-|  <p align="center"> <img src= "Canada_immigration_waffle.png"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png"  /></p>|
+|  <p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="400" /></p>|
 
 
 #### <ul>[Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)</ul>
 
+<br>
+<br>
 
 
 
 
 ### **US Domestic Airline Flights Performance.** 
 
-Analysis/Visualization with Dashboard
+Analysis/Visualization with Dashboard. Improved presentation, and confusing line plots were replaced with histograms.  
+
+
+<p align="center"> <img src="Canada_immigration_waffle.png" width="400"  /> </p>  
+
+
+
 
 
 
