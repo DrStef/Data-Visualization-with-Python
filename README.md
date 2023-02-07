@@ -10,9 +10,12 @@ This project was part of IBM Data Science certificate. https://www.coursera.org/
 
 We improved the initial Notebook with better graphs. <br> We used a map of Canada and contour as a mask for the word cloud: immigration main countries of origin.  
 
-|   Waffle Chart        |      Word Cloud     |
+|   <p align="center"> <img src="Canada_immigration_waffle.png" width="350"  /> </p>       |  <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="350" />     |
 | ---         |   ---         |
-|  <p align="center"> <img src="Canada_immigration_waffle.png" width="350"  /> </p> | <p align="center"> <img src= "Canada_immigration_wordcloud.png" width="350" /></p>|
+|  <p align="center"><b> Waffle Chart </b></p>  |  <p align="center"><b> Word Cloud </b></p>  |
+
+
+
 
 
 #### [Waffle charts, Word cloud - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Waffle-Charts-Word-Clouds-and-Regression-Plots-v2.ipynb)
@@ -27,10 +30,9 @@ Maps with markers: Visualizing features of San Francisco crime dataset.  <br>
 Maps with choropleth: Visualizing countries of origin, Canadian Immigration dataset. <br>   
 
 
-
-|   Folium with markers        |     Choropleth     |
-| ---         |   ---         |
 |  <p align="center"> <img src="Crime_SF_folium_v02.png" width="350"  /> </p> | <p align="center"> <img src= "Choropleth_can_immigration.png" width="350" /></p>|
+| ---                          |   ---         |
+|  <p align="center"><b> Folium with markers  </b> </p>       |   <p align="center"><b>  Choropleth </b> </p>     |
 
 
 #### [Maps: Folium - Choropleth - Jupyter Notebook](https://github.com/DrStef/Data-Visualization-with-Python/blob/main/Generating-Maps-with-Python_v2.ipynb)
